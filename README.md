@@ -1,4 +1,4 @@
-# Angry-Axton-Game
+# Angry Axton Game
 Unity project of the game "Angry Axton".
 
 Donwload the Game on Itch.io:
